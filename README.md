@@ -1,4 +1,4 @@
-# Odins Front
+# Odins Front https://davp91.github.io/Odins_front/index.html
 
 ## Overview
 "Odins Front" is an educational and thought-provoking webpage that serves as Part 2 of a two-part series exploring the multifaceted discourse surrounding Viking culture. This website delves into the darker side of Viking cultural appropriation, particularly focusing on how certain groups, such as the alt-right, might manipulate and misconstrue Viking history for nationalistic and exclusionary agendas.
